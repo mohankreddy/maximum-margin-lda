@@ -1,0 +1,1 @@
+This is the code of max-margin LDA model for both regression and classification.
